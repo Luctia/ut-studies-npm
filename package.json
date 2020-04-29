@@ -1,0 +1,19 @@
+{
+  "name": "ut-studies",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ut",
+    "studies",
+    "utwente",
+    "university",
+    "twente",
+    "luctia"
+  ],
+  "author": "Luctia",
+  "license": "ISC"
+}
