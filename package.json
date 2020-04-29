@@ -1,7 +1,7 @@
 {
   "name": "ut-studies",
   "version": "0.1.0",
-  "description": "",
+  "description": "An npm package providing interaction with a list of studies given at the University of Twente",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
