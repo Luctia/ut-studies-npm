@@ -15,5 +15,7 @@
     "luctia"
   ],
   "author": "Luctia",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/Luctia/ut-studies-npm",
+  "bugs": "https://github.com/Luctia/ut-studies-npm/issues"
 }
